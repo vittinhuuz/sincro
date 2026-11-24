@@ -1,0 +1,13 @@
+# segredos e dados locais: NUNCA vão para o GitHub
+.env
+.secret_key
+*.db
+*.db-journal
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
